@@ -1,0 +1,1458 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.osgi.source
+Bundle-Version: 3.13.0.v20180409-1500
+Bundle-Name: %bundleName
+Bundle-Localization: OSGI-INF/l10n/bundle-src
+Built-By: genie.releng
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %bundleVendor
+Eclipse-SourceBundle: org.eclipse.osgi;version="3.13.0.v20180409-1500"
+ ;roots:="."
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_162
+
+Name: org/eclipse/osgi/container/ModuleContainer.java
+SHA-256-Digest: 3AYzSzzOqu46viDR52gHtRcKFYAfCLalijbb6TQsJ20=
+
+Name: org/osgi/framework/ServiceListener.java
+SHA-256-Digest: ppN9rnEm5ofGVjXu9N9/UarDo8DqIz2Q8CGNa0kd+CI=
+
+Name: org/osgi/framework/ServiceEvent.java
+SHA-256-Digest: /Wf/fc/+nCT+KsEU8TjMvGqcisRVHO5r1goTlo9BmCA=
+
+Name: org/osgi/service/log/LogLevel.java
+SHA-256-Digest: rdJdxFQcunMh0dhDgSK/gmp83Ocs5lpVKbCyHrzhpyg=
+
+Name: org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl.java
+SHA-256-Digest: XijwQFssTLVjGbYLZ2QZJl2NbB/VPutXI4d3M7XJw1E=
+
+Name: org/eclipse/osgi/framework/util/Headers.java
+SHA-256-Digest: /AgPlDeJmVjvSAJIkAd3JBhUq1X9Ee24n203U1vKfqU=
+
+Name: org/eclipse/osgi/internal/url/ContentHandlerFactoryImpl.java
+SHA-256-Digest: bKLKyDuFYHvT1VDc6VGhlhQPhUE0tcT62YAY/gXpfHs=
+
+Name: org/eclipse/osgi/signedcontent/SignedContentEntry.java
+SHA-256-Digest: o6lcChMc/ygD4/991nWEOCJ5Ijq+oj1AjeC1ebnGK+w=
+
+Name: org/osgi/framework/hooks/service/EventHook.java
+SHA-256-Digest: R2TAIVaVs1DvE1bzMIAKi5GJleCNUaPmztpXNM/s1gA=
+
+Name: org/eclipse/osgi/service/runnable/ApplicationLauncher.java
+SHA-256-Digest: JNjDSqzxpmaA012G8b7aEsKZ+P8jkhOGEh5e3SrX4pA=
+
+Name: org/osgi/service/packageadmin/package-info.java
+SHA-256-Digest: /9WOQ3xqkeiCCamXxjigaKhiNcdVt7IuPpmcDBSVtSE=
+
+Name: org/eclipse/osgi/service/resolver/VersionRange.java
+SHA-256-Digest: tRTXZj1Aj4R62wZfEEver7HuZ5dJBsOJt41cq9lR+kk=
+
+Name: org/eclipse/osgi/framework/log/package.html
+SHA-256-Digest: Co/A2vNi1AirLKnOHCMgCsPxBV6CdVy7BPeOEM/mQCU=
+
+Name: org/eclipse/osgi/internal/log/Arguments.java
+SHA-256-Digest: 2G71g44X1X3Bxml7zYZXjhpMmztuWhYTWNKhjojypaA=
+
+Name: OSGI-INF/l10n/bundle-src.properties
+SHA-256-Digest: jKRxYckpPYCfLkA3txip1LbjiEZ8iEqn1V47UK+eKPw=
+
+Name: org/eclipse/osgi/storagemanager/ManagedOutputStream.java
+SHA-256-Digest: XK6cgqXXGdOEiB/Slr39Jy4QtQO+dAwnC0K4F0SZ6OE=
+
+Name: org/eclipse/osgi/storage/url/BundleResourceHandler.java
+SHA-256-Digest: rEMstZbHdxZOWeIK+dyw5Nam3Wq00rCHmOB0c4X3rVQ=
+
+Name: org/eclipse/osgi/framework/console/ConsoleSession.java
+SHA-256-Digest: mD1ay9+NrtZJlX/LYWcm5AfiLHM30vKwKkUOyleYFWw=
+
+Name: org/eclipse/osgi/internal/loader/classpath/ClasspathEntry.java
+SHA-256-Digest: CxYZYYWjNbroCSD6iGeNcPeHMfkyEWgCJTPZKsYdNOw=
+
+Name: org/eclipse/osgi/internal/loader/buddy/IBuddyPolicy.java
+SHA-256-Digest: 63HE/2UeDMbCO2iuv+RQ9nlfmHXXeQw7Ypj+q5YS8As=
+
+Name: org/eclipse/osgi/service/resolver/HostSpecification.java
+SHA-256-Digest: llRkNKvsFSo6tvZBB2VCyxW4xMO8Ws9i8pVygAD7BdA=
+
+Name: org/eclipse/osgi/internal/log/EquinoxLogServices.java
+SHA-256-Digest: Z57Oxpfhm7lflObAIW14TLiETIeIaWL/7gjilp/7HVU=
+
+Name: org/eclipse/osgi/internal/loader/classpath/FragmentClasspath.jav
+ a
+SHA-256-Digest: nq+9LvcwU7ipQ7TPLwROXOpGSuGfaY/H8I1jcFIkvwU=
+
+Name: org/eclipse/osgi/signedcontent/SignerInfo.java
+SHA-256-Digest: o77DbbWi0g+bqgDUWndDkTNQiBFgeJO9vM1QM3kyPjU=
+
+Name: org/eclipse/osgi/internal/log/ExtendedLogServiceImpl.java
+SHA-256-Digest: VAhwMOJOdSwj0QyjQw5f4VYw46jHXeH6vRxs16YkXyU=
+
+Name: org/eclipse/osgi/storage/bundlefile/DirBundleFile.java
+SHA-256-Digest: Ov+PLtdFca+dUR/fT2XrAih27MGFt2OwVMWhRjx/UlI=
+
+Name: org/osgi/framework/VersionRange.java
+SHA-256-Digest: kWNLCxC+dpYwNuCfvuB6D+NnydepBhwhNAi2Z9SGn7g=
+
+Name: org/osgi/resource/dto/WiringDTO.java
+SHA-256-Digest: RjgukUII3lxVmUg35Vp+TjyBa+BnglVVvhJ9QVMVkSw=
+
+Name: org/osgi/service/resolver/HostedCapability.java
+SHA-256-Digest: v40l+BdzlhBR+pn/X8PBm6/1lRL/rld1VgImWADvjv0=
+
+Name: org/eclipse/osgi/framework/util/CaseInsensitiveDictionaryMap.jav
+ a
+SHA-256-Digest: FUBxJBnseNewCErYeytdTKVxyTuILmlEhIlTJV7cz74=
+
+Name: org/eclipse/osgi/service/resolver/ExportPackageDescription.java
+SHA-256-Digest: TAL0In09thUFbhxTi4G46rEJDeT4/doMrZ4ppyNFiZA=
+
+Name: org/eclipse/osgi/service/resolver/StateHelper.java
+SHA-256-Digest: jQ779M0v8OyLzd5Qzv9HskJnU8kB+9JXeQM2ab1YSKg=
+
+Name: org/eclipse/osgi/container/ModuleCapability.java
+SHA-256-Digest: NZVfvGlW6TAW7NNLSvd1CDrX4mqSjdXj5DEJw/KI0Tk=
+
+Name: org/osgi/service/url/package-info.java
+SHA-256-Digest: DCboHLutZQpzWecAGLxugtdJqM2dUTjPzgxPU+OHv4s=
+
+Name: org/apache/felix/resolver/Logger.java
+SHA-256-Digest: vYd9Jes7thIY00UNRUUkpyPSB4UmZ59XoHUnw37+R0Q=
+
+Name: org/eclipse/osgi/internal/framework/OSGiFrameworkHooks.java
+SHA-256-Digest: Dm4k6WXNidP0rSh966Jnj0klPk2UjiwWEF4YarMA8Js=
+
+Name: org/eclipse/osgi/internal/framework/EquinoxConfiguration.java
+SHA-256-Digest: zvMden65oCNmoEqcfuTMzfxy7wmKSqQUgAwl2FOHhOU=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionInfoCollection.jav
+ a
+SHA-256-Digest: 2NoEoFpqwDyHs3lgh5KFAUvJHb9GP04J5j6khrS/JEc=
+
+Name: org/eclipse/osgi/container/ModuleRequirement.java
+SHA-256-Digest: W60WUDwCPxJFYgV5H54npL7Oli4cSm0Grc+X9gA/dCI=
+
+Name: org/apache/felix/resolver/util/OpenHashMapList.java
+SHA-256-Digest: nzzZ+B+TA2/s7umh/rDRY/mlQq6Nvb8ypeFKTycu3uM=
+
+Name: org/osgi/framework/hooks/bundle/package-info.java
+SHA-256-Digest: CWSDV/HRkOFHg7Y4vXsrU/o9dv5ssVbM7oPxONyQOds=
+
+Name: org/eclipse/osgi/internal/weaving/DynamicImportList.java
+SHA-256-Digest: O5i7bqk16rQVkIQOFBvcqDvPGUtMZI0sLl4LIeS0X7o=
+
+Name: org/osgi/service/permissionadmin/PermissionAdmin.java
+SHA-256-Digest: hgecbyd6eHuKLKIGTQs9xevBdOKsOB4XYgGTEQIYLD8=
+
+Name: org/eclipse/osgi/container/ModuleWire.java
+SHA-256-Digest: dKenoRB4svCQh/UI3SGi/rH08WPXhr2KCFd+a8YfSwk=
+
+Name: org/osgi/service/startlevel/package-info.java
+SHA-256-Digest: 4rCFf7Oe0eddub5cI0k85QWPi83FyHBssHKEGApwg0E=
+
+Name: org/eclipse/osgi/service/resolver/DisabledInfo.java
+SHA-256-Digest: SbERZmJJjRgXusbYg9b1iKOz3SjWd9IlnvQyLNXxPcA=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFileInp
+ utStream.java
+SHA-256-Digest: gItHp/20K1LAqe7Bx6t4xm8uKITmFO+jOwvDLgXYjDA=
+
+Name: org/eclipse/core/runtime/internal/adaptor/ConsoleManager.java
+SHA-256-Digest: Yk8g6ki0oDkp0eaZmhsFIlkMLgrbGx2LBh/lbE5Vbro=
+
+Name: org/eclipse/osgi/service/pluginconversion/PluginConversionExcept
+ ion.java
+SHA-256-Digest: 4l5CDjKCirZMFXfSLYW70aazpVoWda/XCfb1+PtRbe8=
+
+Name: org/apache/felix/resolver/WireImpl.java
+SHA-256-Digest: ZSm15S7DmLr8/VseblGSXCZMeuSwK2skgQ7FBPe4s88=
+
+Name: org/eclipse/osgi/storage/ManifestLocalization.java
+SHA-256-Digest: YZmgpbTnC8AwpNPp15AA+5/ZR+2kkkzqtrg/V6Rj8pY=
+
+Name: org/osgi/framework/SynchronousBundleListener.java
+SHA-256-Digest: sIt2uM2nfIRRkoSaQPjO4pofo2tN8j/DDlogB666ta0=
+
+Name: org/eclipse/osgi/internal/framework/XMLParsingServiceFactory.jav
+ a
+SHA-256-Digest: ENTZ2nLS4YvhpcPVcWsmzyGUMem1qbtp2hhZ73Y+wdk=
+
+Name: org/eclipse/osgi/service/environment/Constants.java
+SHA-256-Digest: EQoPRc8eYiYjNIG4OE6+5C+YPddOxlN5oyJYgMrBj+A=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionListener.java
+SHA-256-Digest: uXWZf8LhFPUsgFsFtZX30QRWhOSm820siqmHz9w5HHs=
+
+Name: org/eclipse/osgi/container/namespaces/EquinoxFragmentNamespace.j
+ ava
+SHA-256-Digest: Irw5uvgii69MlvspeGCdUuIWl7NGtC2JbBBW+mbz9VM=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentFile.java
+SHA-256-Digest: CDGzS8l0mx+5rSIF5z9almzhcOZ0QjEP3fxbnyH5yVk=
+
+Name: org/eclipse/osgi/internal/permadmin/implied.permissions
+SHA-256-Digest: acccqkdru8mDZIU832bY4FBSY+LOyAfyFOqbm/QPsv8=
+
+Name: org/eclipse/osgi/storage/SystemBundleFile.java
+SHA-256-Digest: lkg2MVQoOwvLhb6BZVec2hzGafcp264JqvvfYwckkFI=
+
+Name: org/eclipse/osgi/internal/url/MultiplexingContentHandler.java
+SHA-256-Digest: 0YqiG4KGMpgk9xWsZNcInTed9fAfce6IoMsapXTBYe8=
+
+Name: org/eclipse/osgi/internal/loader/classpath/ManifestPackageAttrib
+ utes.java
+SHA-256-Digest: StdFW+jFsrlR1cx2grrTYa8wKJ+x6pXBeBcf3sG6BI4=
+
+Name: org/eclipse/osgi/container/ModuleRevisionBuilder.java
+SHA-256-Digest: pg1pI9QVLRiUevbMY+KXn3UREGZoDaYs/xeWgoVDHHQ=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityAdmin.java
+SHA-256-Digest: 5hIz9zgHTMkWUv4pTuhajkLFSmZYx4P6Cg0VR6vii5I=
+
+Name: org/osgi/framework/hooks/service/package-info.java
+SHA-256-Digest: 4+9VlEQJKGAfwFFRHTC1Cax3K13VB1Dv7ecYn9z0ayo=
+
+Name: org/eclipse/osgi/internal/debug/EclipseDebugTrace.java
+SHA-256-Digest: hzPXLleuxx0cZdLWAHBcxxsMtZLh9oBiwJUb6I10FuA=
+
+Name: org/apache/felix/resolver/util/CandidateSelector.java
+SHA-256-Digest: OMltazKO44pgJTtZsVhlaAckaL8+LNFNmqpnQMATjgQ=
+
+Name: org/eclipse/osgi/util/package.html
+SHA-256-Digest: pcdrcTyWX/JgtV29JKtq9bRzBhG3mcqApP/aSo93PSk=
+
+Name: org/osgi/framework/BundleReference.java
+SHA-256-Digest: 9CYtniLrZ+fvHnGFhydnJY+ChknbjiCtCHMuQzmTCFs=
+
+Name: org/osgi/service/condpermadmin/package-info.java
+SHA-256-Digest: 1N15O3h93josRLvqyxGTjFiSrmE2MGt/jPZofk7N8wI=
+
+Name: org/eclipse/osgi/storage/url/bundleentry/Handler.java
+SHA-256-Digest: GTodlAXzOq6YQiUC9NlL+gWere4nHaTAWGplgPZbA64=
+
+Name: org/osgi/framework/UnfilteredServiceListener.java
+SHA-256-Digest: xDP/s0FS8VBIHzzeYcOYprIFh8z33llmWKrKVcRcknA=
+
+Name: org/eclipse/osgi/service/runnable/ApplicationRunnable.java
+SHA-256-Digest: UJgV4FWh47VCACPOIVQ5yzXXYy9XDaiu0dSQUFXlKnM=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableCollection.j
+ ava
+SHA-256-Digest: 0TUU9jhE/l6ZKi2ixOAbx6PeMo3fpI5Q1PcCnQX2/yM=
+
+Name: org/eclipse/equinox/log/SynchronousLogListener.java
+SHA-256-Digest: oZP+018r0nhpCKCQFN95qwQWVaZl7mLeCQe5zmkm0nM=
+
+Name: org/osgi/framework/wiring/BundleRevisions.java
+SHA-256-Digest: WhiFNABZ1q6mUh5Pb235KmqOibBlY3qY5e3364BmC/E=
+
+Name: org/osgi/resource/Namespace.java
+SHA-256-Digest: f6Oa+rrypMdnkrjlmy8QTUUhsrml1dp17Tjl/U9/rFM=
+
+Name: org/eclipse/osgi/storage/url/BundleURLConnection.java
+SHA-256-Digest: hPSEF+8P9uC8sAJC8JR5ppGbLa8ZPbw7L+UC0hOchyg=
+
+Name: org/apache/felix/resolver/Candidates.java
+SHA-256-Digest: spgj8gMWfT27Xk/ZflfNbLtVr6rQhgNyaHNvS409J1I=
+
+Name: org/apache/felix/resolver/ResolverImpl.java
+SHA-256-Digest: TyQrUv0NPYVNCwr52wJkkalSSdf5hv8kHs0BopNc0w0=
+
+Name: org/osgi/framework/FrameworkEvent.java
+SHA-256-Digest: KAHEpiEvg+LFs151x7bj9NZhnIsjj/hoh/tpr25NikM=
+
+Name: org/eclipse/osgi/launch/EquinoxFactory.java
+SHA-256-Digest: 6IYev2zqxo4Q+80IY6KagY/iLuOOGAFu4TW3SuVdUR0=
+
+Name: org/eclipse/osgi/internal/signedcontent/BERProcessor.java
+SHA-256-Digest: 805ZZbflLu88kv6LhGg1cPt+KgOYHmV+7DtSuUrgUr0=
+
+Name: org/osgi/framework/hooks/service/ListenerHook.java
+SHA-256-Digest: VzixKymZR1cdDYWdWuJSu5R1i0To3akEPW12da/hyHA=
+
+Name: org/osgi/framework/AdaptPermission.java
+SHA-256-Digest: eVtgyjw22h1TvMkGwv7WrZrnTRUl0NMujHbw2cJCOww=
+
+Name: org/osgi/service/log/Logger.java
+SHA-256-Digest: H6HS7wcgNGxfaObr1xjbgW8NgjEQEpoSACnRKITJxOg=
+
+Name: org/osgi/framework/InvalidSyntaxException.java
+SHA-256-Digest: WIBmbJCLXgSpTDa/rqeSSelp6PhJ0Dj0eS88uFB978U=
+
+Name: org/eclipse/osgi/internal/url/MultiplexingFactory.java
+SHA-256-Digest: pPsdqtwJRs1tqwF5l6/7ySNhEd4tUcTgenxVyuaSvAA=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionsHash.java
+SHA-256-Digest: aXUJg9Lel3S8oRrFKPsAw5O1mxrpyqC5VD5ZxI+OuCk=
+
+Name: org/eclipse/osgi/service/resolver/StateObjectFactory.java
+SHA-256-Digest: w1BqGnlQlg6c6+9el43u2DKc+AUdUIPGDJuiFIS/hlE=
+
+Name: org/eclipse/osgi/internal/location/EquinoxLocations.java
+SHA-256-Digest: vJCNl/9EQQV+exGEqOgFdSsjHZDCyhUL+sT/7zi6/hk=
+
+Name: org/osgi/framework/dto/FrameworkDTO.java
+SHA-256-Digest: X4E3848XhSoHQPhtrVp0wS2hR1vcnPfp1Zn7PBPfs6E=
+
+Name: org/eclipse/osgi/storage/Storage.java
+SHA-256-Digest: 3k/YIh6I7SkniwdbMVKSOOaaSkei4WbGtj77uEv/SDk=
+
+Name: org/eclipse/osgi/container/Module.java
+SHA-256-Digest: vnJYEdNvbtbYGzILe6NYQECYd040HA21tMUFi9DqOtc=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceRegistry.java
+SHA-256-Digest: s98F/6DQMHODLEgVI2zC9454tv4aoyAl0XaArPB9hg4=
+
+Name: org/osgi/resource/Wiring.java
+SHA-256-Digest: jPl/rN6DlT9ZEqmH7LiD69WHDf0xPNHFi7Ml9dNkp9o=
+
+Name: org/eclipse/equinox/log/ExtendedLogService.java
+SHA-256-Digest: EDHoowNNPparMHFyQxudZ8c88Y+wqzN26wEiS7fPY/w=
+
+Name: org/eclipse/osgi/internal/log/ExtendedLogEntryImpl.java
+SHA-256-Digest: TMbkr2HcwhuAVNcUB5naWz+khZWdpnPdDQho4vOEZz4=
+
+Name: org/eclipse/osgi/internal/url/EquinoxFactoryManager.java
+SHA-256-Digest: 60s3NhwJPUbjog2lz2rO5rsWUoZEi1DiF0h82VQuFOU=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableValueCollect
+ ionMap.java
+SHA-256-Digest: cbKx4jGD5QTt1E+O6J4pG+DT6hjY4/xtTfzsP6W9YC0=
+
+Name: org/eclipse/osgi/internal/hookregistry/StorageHookFactory.java
+SHA-256-Digest: /odMe/NJ0K8iUszSEagZV5H0PcnBzjAo8cV/z+4NM6Y=
+
+Name: org/eclipse/osgi/storage/url/reference/ReferenceURLConnection.ja
+ va
+SHA-256-Digest: qqTnkM4bfeTRpKXeeGKZv6Lb5tMagmCsLMPaGbBHJaw=
+
+Name: org/eclipse/osgi/internal/container/ComputeNodeOrder.java
+SHA-256-Digest: opPjuXIzIvI7jV28XkSGu8qoRjkJtjmU3Sm5IgLYz7Q=
+
+Name: org/osgi/util/tracker/package-info.java
+SHA-256-Digest: gOhB8KVxeo1HNcikfNIB/gUpV1wV2kLIomjnXQttU0o=
+
+Name: org/eclipse/osgi/storage/bundlefile/NestedDirBundleFile.java
+SHA-256-Digest: UlvqoIorg8rYKON46s6efccB/DmOB/yFBTMlnIFCcBs=
+
+Name: org/osgi/framework/namespace/BundleNamespace.java
+SHA-256-Digest: jRsyb4IlKE3SIlRFKMQ/DZrVOtbq4O9KxEC0NrpEDow=
+
+Name: org/eclipse/osgi/internal/loader/sources/NullPackageSource.java
+SHA-256-Digest: GjaGcMkggYCrlr8ONqnD8EK/TmfsMZRRk5iqBTV41dM=
+
+Name: org/eclipse/osgi/storage/bundlefile/FileBundleEntry.java
+SHA-256-Digest: IdkqcQpQgpzkmCpCzFb3G85irpz2QFYGijyvUqaDZhM=
+
+Name: org/eclipse/osgi/util/ManifestElement.java
+SHA-256-Digest: RAij+ja2HIhZynwYr7YfbhBRrW1R5Gg50O/ALvOpFS4=
+
+Name: org/osgi/framework/dto/package-info.java
+SHA-256-Digest: aDMQFWgimityR0XJQYK7I863xsbC9vbg5bvA7ac3Urg=
+
+Name: org/osgi/framework/ServiceRegistration.java
+SHA-256-Digest: dl4JTucayw3ElmrdbYarcumwZgoM1MSU0j8KRjXjiho=
+
+Name: org/eclipse/osgi/internal/loader/FragmentLoader.java
+SHA-256-Digest: Y95YOxj/12QNtkXeFjJtDPTWx4FGFpeV2PYrlNIDovc=
+
+Name: org/osgi/framework/Bundle.java
+SHA-256-Digest: 1IEheN5Ebf3TfBclHAtOEQ9VyjGm5U6fu56dCkgoJDA=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceRegistrationImp
+ l.java
+SHA-256-Digest: p64+q1SAC01gnmSgCNS+L28VUlrDQX/100Ke6XxS2Wc=
+
+Name: org/osgi/service/log/LogService.java
+SHA-256-Digest: 0CQLJzAKQemG5FlG2Yj2yVClU8VH4UCMdmI7tqd23X4=
+
+Name: org/eclipse/osgi/storage/bundlefile/MRUBundleFileList.java
+SHA-256-Digest: uMPc9qlKc5LVLc6Yg4WtPX8VAEJAJETb4/9s1XKqauo=
+
+Name: org/osgi/framework/ServiceObjects.java
+SHA-256-Digest: v6/sML/qThF2ODcSp9hii/XgWTVUevrqz8Pq0HmRru4=
+
+Name: org/apache/felix/resolver/WrappedResource.java
+SHA-256-Digest: igd/G6/mCagiYN9NLgrpl2Q+JuRWJ0upgSb7EA+3dbk=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignerInfoImpl.java
+SHA-256-Digest: GvTGvxFeTey38GoVCEzN08CeHE3Xq9ujGY2wS3KRrNk=
+
+Name: org/eclipse/osgi/internal/log/EquinoxLogWriter.java
+SHA-256-Digest: qVS4Fv8wmBqJw0PkHrw3x5DtkDE8CtgQmT36sNxAazA=
+
+Name: org/eclipse/osgi/storage/PermissionData.java
+SHA-256-Digest: Au5pJDteDVBUtCK/si8SxwogCEkENV9cLyfNG8/xuOQ=
+
+Name: org/osgi/framework/launch/FrameworkFactory.java
+SHA-256-Digest: TOyrpf/1luALSKHJ+mkZpJKT7/ZBr/ZyB1JRA2qZRMk=
+
+Name: org/eclipse/osgi/internal/loader/buddy/RegisteredPolicy.java
+SHA-256-Digest: LN6UhVDkTY/D1xEdl3s/5Ddlt6E56Vb66qQh+iorfRI=
+
+Name: org/osgi/framework/SignerProperty.java
+SHA-256-Digest: +r++/u48OtxLCCLoVBMcyeR7dAt92UMjFRbHFo66BMA=
+
+Name: org/eclipse/osgi/service/resolver/BundleSpecification.java
+SHA-256-Digest: iDdnWxbbsfWn8M5JTvnC0kmPqQZYfbdRKd5mNuWCbLM=
+
+Name: org/osgi/service/log/admin/LoggerAdmin.java
+SHA-256-Digest: bifh1z2RHgwIBzO/i4h/7c6ml8XPxP7L5OLKIit2nW4=
+
+Name: org/eclipse/osgi/framework/console/package.html
+SHA-256-Digest: IUG1I/ThVJKTenx5PY/gJ8x51jnvLhwuLhzPczaObx8=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionAdminTable.java
+SHA-256-Digest: O+k3tpve0HQbM/Kbe4vRjRRIqMxos/453p6wxwLomzQ=
+
+Name: org/eclipse/osgi/framework/log/FrameworkLogEntry.java
+SHA-256-Digest: 5EhkqO1EoXwt/Y/xyhR1zqH84BMpRd6Y6ww3WbjauGc=
+
+Name: org/osgi/framework/namespace/package-info.java
+SHA-256-Digest: EFndNbFKXVntRob41a68AqaoV/+XS5i9q+AW3GEPv3k=
+
+Name: org/osgi/resource/dto/RequirementRefDTO.java
+SHA-256-Digest: xNkRXb/sBr1URDMsgF4vpGPT6+j2RFAyHA/x+P/QhAA=
+
+Name: org/osgi/resource/dto/ResourceDTO.java
+SHA-256-Digest: /ZJ9nMKP92isD2buieqsguoAIpLvJdFqCRD8K+sAN9M=
+
+Name: about_files/LICENSE-2.0.txt
+SHA-256-Digest: z8d0m5b2O9McPEK1xHG/dWgUBT6EfBDz6wA0F7xSPTA=
+
+Name: org/osgi/resource/Resource.java
+SHA-256-Digest: dnlzBoIpN8YoIP/Yw1hsh8AM+ddz7dssILWoPurBh6I=
+
+Name: org/osgi/resource/dto/WireDTO.java
+SHA-256-Digest: HqXHS/bxYf3CkQBL+Kf7YYjl9V5cbOMd7BWRqqWNHeQ=
+
+Name: org/osgi/service/log/FormatterLogger.java
+SHA-256-Digest: gChpmEGu3BnntUbQrfLS+rZgBqgKdn4zbbraZG7D9sI=
+
+Name: org/osgi/framework/ServiceException.java
+SHA-256-Digest: WXSNxn9fsvS2qVBkoeDqye5RS7z0SWqpj7WbtsgiOLI=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateChain.
+ java
+SHA-256-Digest: yYL7HfWUa7csmroIqwdCtRSy2+yE/74qEz8PRDicQ1I=
+
+Name: org/apache/felix/resolver/util/OpenHashMap.java
+SHA-256-Digest: pVezXa1vHA+IqCpLJDWfMff+O1CWnRWIwobiW4lTReE=
+
+Name: org/osgi/service/log/LogEntry.java
+SHA-256-Digest: HDZW7bl+JSBM4T3+CSTbcP9uLy1v5jdPT/Wgc9MlkXY=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateTrustA
+ uthority.java
+SHA-256-Digest: NhBqkhom6zA1fZ3Nobg9FrSRYIC2VIQ1RKKeW7woHVc=
+
+Name: org/osgi/service/condpermadmin/ConditionInfo.java
+SHA-256-Digest: Fgp+RCbbvq0BVmEc5Hzr9qHVXP5yahO7NiHI/YkpC44=
+
+Name: org/osgi/resource/dto/RequirementDTO.java
+SHA-256-Digest: byh+Qdv6jPp1w77j3jXGx+9c1gBM0UuJx86dwtc1jWg=
+
+Name: org/eclipse/osgi/service/datalocation/package.html
+SHA-256-Digest: qdu79CceDiOVpx9Q3BhFudgzft+syYxEkKHuS/nw0NU=
+
+Name: org/osgi/framework/wiring/dto/FrameworkWiringDTO.java
+SHA-256-Digest: BejlqP2zx8B1EPkP8Vq0lhZb8QmQA633gHTBAUPiUw8=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventManager.java
+SHA-256-Digest: GphHWkaCV/W0ubVKsQJBWaU2gCXDfTOdlt/rsC8le4s=
+
+Name: org/eclipse/osgi/storage/bundlefile/BundleFileWrapper.java
+SHA-256-Digest: Yl5TOrkxdYcKfuXsVe7ehEQNgybvab095TaVZqGaack=
+
+Name: org/eclipse/osgi/internal/hooks/EclipseLazyStarter.java
+SHA-256-Digest: XvScbsXMcnU8F779+BjW7BOl8ooUq/eijPYyVvhKU6I=
+
+Name: org/osgi/framework/PrototypeServiceFactory.java
+SHA-256-Digest: h44xMP1uCKQKcJ89X4on3eNMi/pj+5eMDLMLCEAklgw=
+
+Name: org/osgi/framework/package-info.java
+SHA-256-Digest: Jw4Xjwp6d3d36zt9nRHDC0V/hvcvKm4jGCvnzO35mEY=
+
+Name: org/osgi/framework/wiring/dto/package-info.java
+SHA-256-Digest: xoXe4BCnPcNhG0+feFGqcfxDcBAYcturjTsUU9YQPLk=
+
+Name: org/osgi/framework/wiring/BundleWiring.java
+SHA-256-Digest: XLZuFSh4j3qjZiyHFtIBWIQz61QjlxLz9RgoReHzBSU=
+
+Name: org/osgi/service/log/LoggerConsumer.java
+SHA-256-Digest: jikw6wmmyYgAzZ7ncppUrZuV/eopljrMvu88tjoOcKY=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateVerifi
+ erFactory.java
+SHA-256-Digest: CaqDopZpwXwW5gmUC1KqX+b3TOjG1Zq85l8ii9ITlTs=
+
+Name: org/apache/felix/resolver/util/ArrayMap.java
+SHA-256-Digest: Ssg4m7Ts5lCSZz7N/fXiEo33Nz8sBifwxTYuwx53eL0=
+
+Name: org/eclipse/osgi/launch/Equinox.java
+SHA-256-Digest: 4Os2K5W6mza9mYQI9ujBHQjGdLHwykq8REZcLdOY/Ac=
+
+Name: org/eclipse/osgi/storage/bundlefile/DirZipBundleEntry.java
+SHA-256-Digest: arkBDnvYJvHxB0FkhBslGqgAFSmEgVIGh77E5ILUqx0=
+
+Name: org/eclipse/osgi/framework/util/FilePath.java
+SHA-256-Digest: OI0goLEOlVXS2pJLoGAZ4hT4KqlVLF2vG5Cgpx0JYEQ=
+
+Name: org/eclipse/osgi/internal/loader/buddy/SystemPolicy.java
+SHA-256-Digest: JemsC+3twG4pSEaRAE30YnFfuWncVRYm8/5CjQ/2Hfk=
+
+Name: org/osgi/framework/wiring/dto/BundleWiringDTO.java
+SHA-256-Digest: j1AZ7lInT5hQrXSTtijvbZeBNC47y6m84KV7I3UTjqQ=
+
+Name: org/eclipse/osgi/storage/url/bundleresource/Handler.java
+SHA-256-Digest: EMC6/sgco9kiQy6hDz88rEU8ahYGwex6D+nBgqLxzyM=
+
+Name: org/eclipse/osgi/service/resolver/ImportPackageSpecification.jav
+ a
+SHA-256-Digest: /3uWWiztNreWl/UKG8VVy/DoaaM9/ATxH+S7vr9t1KU=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFile.ja
+ va
+SHA-256-Digest: sdFpf3kH9VKuKJFCQLq3Dh5G+LAVFdp7pzPMcMX4N2o=
+
+Name: org/osgi/framework/PackagePermission.java
+SHA-256-Digest: ilo+Rl3Qa2kY0x96vAkPEMCRJjTLY02XYBwHfTRr7Mc=
+
+Name: org/osgi/framework/launch/Framework.java
+SHA-256-Digest: pggdhn03+TjwRb2oE5pp6UNNL5/4Gz/f//rc0vfU8O0=
+
+Name: org/osgi/framework/hooks/weaving/WovenClassListener.java
+SHA-256-Digest: MYpGem0Fqjoeigvj0pD8qr590EBFjz4qgpGFxnIQgr4=
+
+Name: org/eclipse/osgi/framework/eventmgr/CopyOnWriteIdentityMap.java
+SHA-256-Digest: Lq8ww+P63Vruk/zvcj4H+Pgrm5htWRK8kAM0WYj/UnA=
+
+Name: org/eclipse/osgi/internal/permadmin/EquinoxSecurityManager.java
+SHA-256-Digest: wvGw1HTqvM9aBQ7r0wiC7oQLx/9GJWm2MDd4mqcsF2A=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentMessages.pr
+ operties
+SHA-256-Digest: zQ3udq0mWC6ICcWYCXjbdeCIxPBXth9kaAAb7nnfSEI=
+
+Name: org/osgi/service/url/URLStreamHandlerSetter.java
+SHA-256-Digest: gRGBYPbHuVHoqKzWK42jGZAvgEZHT96H/PwyS10eIJs=
+
+Name: org/osgi/service/permissionadmin/package-info.java
+SHA-256-Digest: 7Amaiwq8frZncGWFwhMalWBivA/BM34sfGyF0t6NKjI=
+
+Name: org/apache/felix/resolver/WrappedRequirement.java
+SHA-256-Digest: 7eyZgLLANppFUPbp/6I1xdhfgURXwkxuCQ9374hKJ4g=
+
+Name: org/eclipse/osgi/container/ModuleRevisions.java
+SHA-256-Digest: 496pek7HTvD2+3bWjxFui+Xtzt17+co6w+EQf0Tgez0=
+
+Name: org/eclipse/osgi/internal/util/Tokenizer.java
+SHA-256-Digest: d84XVVGlJTd1t4MzDdGUgRmSC9cjRvyhnLydjyuYtOs=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionInfo.java
+SHA-256-Digest: FgrmKIwFWR8M6Nt2Lf9kV7QDfN/KTqKbLv88vka8+X8=
+
+Name: org/eclipse/osgi/internal/loader/EquinoxClassLoader.java
+SHA-256-Digest: mEkCTn8ai2b1/UnczetfqoGPQod/qW0sl2L1p7Zz7ug=
+
+Name: org/eclipse/osgi/internal/log/ExtendedLogReaderServiceFactory.ja
+ va
+SHA-256-Digest: 5NLxayuoUAAoptTrmNXCdvhBwJuO75RgK/aw5HSXcvI=
+
+Name: org/eclipse/osgi/framework/console/CommandProvider.java
+SHA-256-Digest: ZUKqO8PhzvWERrLLJ/4QGpGMR3K1rDC1BvgdTX2nb5E=
+
+Name: org/eclipse/osgi/internal/hookregistry/HookRegistry.java
+SHA-256-Digest: sqv+O74x2H7+i4Y0AgnsXsvhI+XAPaFr/290kLismy0=
+
+Name: org/osgi/service/resolver/ResolutionException.java
+SHA-256-Digest: 9c2TyoqhX1kjcUp3oHXFNw2deO3CV2pYZb9UZFyJbj4=
+
+Name: org/eclipse/osgi/framework/console/CommandInterpreter.java
+SHA-256-Digest: OxZbyegzNCzmfgAlKLx5NmAKHBDTMIZY9/FA+8qG3Cg=
+
+Name: org/apache/felix/resolver/util/CopyOnWriteSet.java
+SHA-256-Digest: ccs6E8dEWLfrmLj9StvWIoVfbG9Qyj+REIIEaWxGgzM=
+
+Name: org/eclipse/osgi/internal/hookregistry/ClassLoaderHook.java
+SHA-256-Digest: YI6tPJXkSg3Qv2avJn1wQ/WNEmV/iBaWczOAHAUXInc=
+
+Name: org/osgi/resource/package-info.java
+SHA-256-Digest: TAUYxSaJrdAl7+AA/5UI0LvPu6tnvWJzmmv7y1cLMZc=
+
+Name: org/osgi/framework/startlevel/dto/BundleStartLevelDTO.java
+SHA-256-Digest: fEqnUeKVnrJJOTntGwS9h8h9awfbCXHDx1/e7zwIKXk=
+
+Name: org/eclipse/osgi/internal/framework/ContextFinder.java
+SHA-256-Digest: tRRW42yaC7ldW6p0ETm24ztY0l4aVFFrFwEjWxIlpXg=
+
+Name: org/eclipse/osgi/service/security/TrustEngine.java
+SHA-256-Digest: gxJpFacJQIXtNyiseIdM0OiRjBL8zKOo72grttSEu2E=
+
+Name: org/eclipse/osgi/internal/log/ConfigAdminListener.java
+SHA-256-Digest: dDx6jSbZOEAHX1tiYuE+A3mVaL2JlDOWmBCAKHntkKI=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionEngine.java
+SHA-256-Digest: xs6D/IMdFj+0Cn1WHmoGHEKlpJsE6UvgwWugGW6jg6E=
+
+Name: org/eclipse/osgi/internal/hookregistry/HookConfigurator.java
+SHA-256-Digest: WiQJQLWsxmva3Q2aJP7FzBbQ+f/LKaKWKEOB7ISOGIA=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseAppLauncher.jav
+ a
+SHA-256-Digest: rjlVgYyoCU2fAYCBU9H/2KL4UAeytvqX00x1T0ifcRg=
+
+Name: org/osgi/resource/Wire.java
+SHA-256-Digest: zAdPMPgDps0DQezrH9kke1Sdj21c285dRYDV58ov4e0=
+
+Name: org/eclipse/osgi/storage/BundleInfo.java
+SHA-256-Digest: SiGZFyIrV4oDn5uxyR8pfR1GL17RW4lv/heGIbHmPYw=
+
+Name: org/eclipse/osgi/service/pluginconversion/PluginConverter.java
+SHA-256-Digest: C8b4f1stccy/glvA2q75SS4VI0BAZnso68Bb3LM8y6A=
+
+Name: org/eclipse/osgi/service/datalocation/Location.java
+SHA-256-Digest: sgbfC3+VuIG49nziOhhIliJnYleiHcMn1K/xuv2MTik=
+
+Name: org/osgi/framework/AdminPermission.java
+SHA-256-Digest: Tyu2jRVqJk3P4OWX/nOyPXKpVPErxGPLABq3u60E3Do=
+
+Name: org/eclipse/osgi/container/ModuleContainerAdaptor.java
+SHA-256-Digest: A97BVwHH2ZEhX/VI8/udRFnD4BLb00lWPExpgbJVSWo=
+
+Name: org/eclipse/osgi/internal/signedcontent/DigestedInputStream.java
+SHA-256-Digest: hN1IwG7gkQ8lMDEtH76tHpDE4+58YqWgnSEMe0dVZGI=
+
+Name: org/eclipse/osgi/internal/debug/FrameworkDebugTraceEntry.java
+SHA-256-Digest: Or4le/b4Swuu/F/Dx6h2YvnQX04C2hRlpuT63AHBwuw=
+
+Name: org/eclipse/osgi/storage/url/reference/Handler.java
+SHA-256-Digest: Lvrp/imIHzDBP00tKI73gvK22HmKgYx7bzNGE6NGkbo=
+
+Name: org/osgi/framework/wiring/BundleRequirement.java
+SHA-256-Digest: 0NwzErDASzFpoJ8S2Agt5jYgA8Yu5EW97ZQH/8n75us=
+
+Name: org/eclipse/osgi/internal/loader/sources/PackageSource.java
+SHA-256-Digest: C6B7q5LQViaAl/8NLHO0recNFr+xM1SAhKVJlMSMDxw=
+
+Name: org/osgi/framework/wiring/BundleCapability.java
+SHA-256-Digest: 5i3glMm3kSQob9sYG/ASh7jd2jAynugybBP4xUvgqjg=
+
+Name: org/eclipse/osgi/container/namespaces/EclipsePlatformNamespace.j
+ ava
+SHA-256-Digest: 3eMP4SLkH65NyvUvSswp3fVtgAm4hSffoSGYY3mzwMY=
+
+Name: org/eclipse/osgi/internal/weaving/WovenClassImpl.java
+SHA-256-Digest: i8XpLcE5RlciSr2LG5lmrrH35vh5c34H2Ic4fGF37wE=
+
+Name: org/eclipse/osgi/internal/log/ExtendedLogServiceFactory.java
+SHA-256-Digest: zdq6fghSRVrAoN2amZiddMxKGwD6eNCPevrBJjPKkmA=
+
+Name: org/eclipse/osgi/container/ModuleCollisionHook.java
+SHA-256-Digest: gE+gJVwEG3Sgvk9dZF5s7LdySBNExKVXpOJ/+w14lEY=
+
+Name: org/eclipse/osgi/internal/framework/osname.aliases
+SHA-256-Digest: 1I1zoJrAK9ALmzK/vpESfVAR6N3wXz1R8s8SJfkMLMo=
+
+Name: org/eclipse/osgi/service/resolver/GenericSpecification.java
+SHA-256-Digest: mkaqy/ZXa89s1JHhax8gQQNszKoVnlEV1a0W9NFRX9U=
+
+Name: org/eclipse/osgi/internal/signedcontent/PKCS7DateParser.java
+SHA-256-Digest: LPXDeAVWjcDfueFWSKC91ODXt54LpgZg72X2GR/iL+w=
+
+Name: org/eclipse/osgi/service/debug/DebugOptionsListener.java
+SHA-256-Digest: TjnL+bwHHILS7lqlHoIm1Go0iCA1vNqHb8ay2qLXYEA=
+
+Name: org/osgi/service/packageadmin/PackageAdmin.java
+SHA-256-Digest: qT4xrdhxhMut9TVBLOzHE22VssbGnkYkr7visViYi2o=
+
+Name: org/eclipse/osgi/internal/signedcontent/Base64.java
+SHA-256-Digest: H0sFHH3+C2ccdu5s/4ELqnHN/5lGhgi28Mg1Kgigy3U=
+
+Name: org/osgi/framework/hooks/bundle/EventHook.java
+SHA-256-Digest: C5SqyjaEEf/9u932cR05BjiAmK0Gf/+2d8SV7pSnrJA=
+
+Name: org/osgi/framework/namespace/AbstractWiringNamespace.java
+SHA-256-Digest: YDNsle6D1EP6NdORvjD5YEO7vBdKldru5erQieSTgKQ=
+
+Name: org/eclipse/osgi/container/namespaces/EquinoxModuleDataNamespace
+ .java
+SHA-256-Digest: deYgJwBIjtAYfRyMKk+p/mVOWeqD292vKD6iqTA+rI0=
+
+Name: org/osgi/framework/hooks/resolver/ResolverHookFactory.java
+SHA-256-Digest: PWKNzio9u/L9y+wBjX018mQ2FDjypbiTIfdh93nOQko=
+
+Name: org/eclipse/osgi/framework/util/ArrayMap.java
+SHA-256-Digest: E+e2QESlorxASlcxM2K1fXe1Cb0QrVGTuUDfcRPbN/E=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedStorageHook.java
+SHA-256-Digest: wiCH9ZmYTV4NnUrLu1axVWUizc0WtFgohJs2ozynDxs=
+
+Name: org/eclipse/osgi/storage/bundlefile/ZipBundleEntry.java
+SHA-256-Digest: tceXECSavRiv5MNt3yjB3V5MKrV7BHue/9Ky+oJdRGQ=
+
+Name: org/osgi/framework/dto/BundleDTO.java
+SHA-256-Digest: B1ynbtKsgRzJL0xBBLmsl+rvMj6Ce/wh+oSP/MAs97c=
+
+Name: org/eclipse/osgi/storage/url/BundleURLConverter.java
+SHA-256-Digest: zmlUx5J4NKrjh2SPyYI1SLBSsNE8f7icIy35w81aSUY=
+
+Name: org/osgi/service/url/URLConstants.java
+SHA-256-Digest: BlWY7uG74yZXzkAO3TAHmci/ZVqVUlBJ4Rlhn9m722k=
+
+Name: org/osgi/framework/hooks/bundle/FindHook.java
+SHA-256-Digest: F1eXC1uNAooPOen5DYBJZvE1Wkw6fi5pj3FcAjwYDY8=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventListeners.java
+SHA-256-Digest: xQw/Rn7cRsmiq7lSdJD4iUKg1p2mGGSJdqW6VAmpwds=
+
+Name: org/eclipse/osgi/internal/service/security/KeyStoreTrustEngine.j
+ ava
+SHA-256-Digest: XHffeP+srushjta++fx9E9HMuEhmui5uzGSmXAPZIto=
+
+Name: org/osgi/resource/dto/CapabilityRefDTO.java
+SHA-256-Digest: e+zW1a6Y6f2yE5BrjjdeuirnqkCg+vjHN0YkIqyGAug=
+
+Name: org/eclipse/osgi/util/TextProcessor.java
+SHA-256-Digest: URuFVLEcTBi7pFNn/UTy8gYBrgKuomgwAXplH9pLBQg=
+
+Name: org/osgi/framework/hooks/service/EventListenerHook.java
+SHA-256-Digest: pt3IPH2S0XEw5wOtaiQnC5luaFI+W35DMzt027dZk9U=
+
+Name: org/eclipse/osgi/internal/url/URLStreamHandlerSetter.java
+SHA-256-Digest: P/y2IjUOVOiuRHk3CN32deqDdthvvZzPM6YgMd9tWNw=
+
+Name: org/eclipse/osgi/internal/loader/sources/FilteredSourcePackage.j
+ ava
+SHA-256-Digest: +ufhyiCIHfQiIN4XEBMewIsuSOegSvVdI/QR3kuRIqw=
+
+Name: org/osgi/framework/namespace/NativeNamespace.java
+SHA-256-Digest: PVAgxnYsXaVIQB1PrByQwDnrdHoR5pjy2j4OipYSoao=
+
+Name: org/osgi/framework/FrameworkListener.java
+SHA-256-Digest: /AiTJOVxq+qVDoHIf7spDw42B2rZQHS13XBi/vSCoW8=
+
+Name: org/eclipse/osgi/util/NLS.java
+SHA-256-Digest: QgI4Ezwg6je3OSQwS+exGJwTYw42mQfl8QsOes4qzvY=
+
+Name: org/eclipse/osgi/internal/framework/DTOBuilder.java
+SHA-256-Digest: xoltUDkso+ngoA5h4yPK82uhJjFNMl9rAFSv59b0ou4=
+
+Name: org/eclipse/osgi/internal/messages/ExternalMessages.properties
+SHA-256-Digest: ggBC6mc0P/9qFHKqbXWT18XIIJKJurqAxGCMh56YT8w=
+
+Name: org/eclipse/osgi/internal/log/LoggerImpl.java
+SHA-256-Digest: J/r4fZkKs+s+g34OcVZ9Z43ue3ajc1VxlGab9om+Vkg=
+
+Name: org/osgi/framework/startlevel/FrameworkStartLevel.java
+SHA-256-Digest: 9n9MC95sUeKf2ziIqFCyHamrrkGA6z5AYnfO+d7lgrE=
+
+Name: org/osgi/util/tracker/ServiceTrackerCustomizer.java
+SHA-256-Digest: lU3miSnLjaZFNyUU6CtMnp1wftqxOK22ihZUeUZK+OU=
+
+Name: org/osgi/util/tracker/BundleTrackerCustomizer.java
+SHA-256-Digest: NcHz+dFEodgs/tFHGQAXq5oPZGzNwExj1/agQcH4c7g=
+
+Name: org/eclipse/osgi/internal/url/URLStreamHandlerProxy.java
+SHA-256-Digest: qRYD/5da7ySk87ear3SvLitwat2luO7QoankptRWlM4=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventDispatcher.java
+SHA-256-Digest: DqxQzHVALjfrOR+U1yKp1L/GRgvsX9kyfNf9B9cOebk=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateVerifi
+ er.java
+SHA-256-Digest: xIFCPOWzKv//nQz5mzngZ8mUDC2dxgqzy66+vYu4nJ0=
+
+Name: org/osgi/framework/namespace/ExecutionEnvironmentNamespace.java
+SHA-256-Digest: HWRiCpjP4vopUWtrOUmoEuNYqtmK/7gNQsnT2srUFuQ=
+
+Name: org/eclipse/osgi/internal/log/EventAdminLogListener.java
+SHA-256-Digest: eewdxE7maA+n+qjIO835qlIqOMoWsLvb7LdfP8ZBouE=
+
+Name: org/osgi/framework/Version.java
+SHA-256-Digest: Dcm2QcWRwAgY1XKHQ5D8mWkfPzKQ36GhgYINMWgoiNo=
+
+Name: org/osgi/framework/startlevel/BundleStartLevel.java
+SHA-256-Digest: uVx8eekOgu6roVQP/2kTRnl2UQorNpJ5tLzEU5g0pgg=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityRowSnapShot.java
+SHA-256-Digest: LBu2XLujjn04fTmr7qKqXm1RqNRFom+CY35PbMq/C2I=
+
+Name: org/eclipse/osgi/internal/serviceregistry/PrototypeServiceFactor
+ yUse.java
+SHA-256-Digest: gpHhcApGcqcQWDn9xNOcsx5ICXKuNJXg5LMW1K2SxZk=
+
+Name: org/osgi/framework/namespace/PackageNamespace.java
+SHA-256-Digest: Ep1BS9VAL8GnqRJIHY496HXgfRs5kS87APP9KFouIW0=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityTable.java
+SHA-256-Digest: /3RXdyigu74C2Pf/yeRIU2KctUF5uGO5fZB1BkLneoI=
+
+Name: org/eclipse/osgi/framework/eventmgr/package.html
+SHA-256-Digest: 5/aqGxY3cFZ/Wr14kjm5Zkw951s9eeC2A8SCFav6iJQ=
+
+Name: org/eclipse/osgi/service/resolver/StateDelta.java
+SHA-256-Digest: JVVJrKL50Yxal3BTVeURuzURW1Z/sn4cKq+UTa0piNs=
+
+Name: org/osgi/framework/ServicePermission.java
+SHA-256-Digest: a+HZ+zb+HCbLRtqVjAySUyBfGxV2k8AVNUlD3lvY4q8=
+
+Name: org/eclipse/osgi/internal/location/Locker.java
+SHA-256-Digest: TF324xwhjSM5ubKvuFzVXCxGbLhF+tAnSkSEVNbiGm0=
+
+Name: org/eclipse/osgi/storage/bundlefile/BundleFile.java
+SHA-256-Digest: hbnH58S0y2kg1XyldU9uftUqI0kMQ4TbZ+HkLFvEDSo=
+
+Name: org/osgi/framework/hooks/weaving/package-info.java
+SHA-256-Digest: QQiuR6HR6TjRH3LTj3WVz5Wf/YOgPF7XVrfR87PKYxs=
+
+Name: org/eclipse/osgi/service/resolver/ResolverHookException.java
+SHA-256-Digest: ZncB0iMFGzNshLKVLDDnXSBNPOGnv0Ej7OFvQBxaHjc=
+
+Name: org/eclipse/osgi/storagemanager/StorageManager.java
+SHA-256-Digest: wMxqy6wNyhX+pCFqykamRPd79BNxc2blVrI+nv+j/AA=
+
+Name: org/eclipse/osgi/internal/framework/StorageSaver.java
+SHA-256-Digest: hMS1AsNuCisi3It5gxvAMsLtl+7lzTR8QiR0ecTBLM0=
+
+Name: org/osgi/framework/launch/package-info.java
+SHA-256-Digest: f6T/SsWAFMlve/RVp9wJkxP8rgq3gvvzj1zdQKY0lUY=
+
+Name: org/eclipse/osgi/service/resolver/State.java
+SHA-256-Digest: OMnnokl5J7ircB5L4T6f7bsu9/fGhtl8LyUelu5qtHY=
+
+Name: org/eclipse/osgi/signedcontent/SignedContent.java
+SHA-256-Digest: +BBfNLzGi2oFm7Nv/dP5mHpkqatCD2GqrWOD/BWGCcc=
+
+Name: org/eclipse/osgi/signedcontent/InvalidContentException.java
+SHA-256-Digest: IyHrUVd71AtfFnwW+znnkZ7/gi0CxC+yn67hSCEe5Uo=
+
+Name: org/osgi/resource/Requirement.java
+SHA-256-Digest: LRomjBQzgZo2bEgJtd5G40uGdfhNPFWpVkLSxNcRJgg=
+
+Name: org/osgi/service/log/LogListener.java
+SHA-256-Digest: Tr1oTtB4Eltltbv9Mwu2ofnfFX3k6GKjoUs8juY09WI=
+
+Name: org/eclipse/osgi/internal/loader/BundleLoader.java
+SHA-256-Digest: ACM0QGEr6ej0jXWCQ50IxbHq+mdWUd5ZHKlGkuKTv8Q=
+
+Name: org/eclipse/core/runtime/adaptor/EclipseStarter.java
+SHA-256-Digest: HzjqGZX20GJke7w5UDa6XeVMti1k7N6w/8oPS4COIzo=
+
+Name: org/osgi/resource/dto/package-info.java
+SHA-256-Digest: peFQ3CfgFZlsIVTA7AhaNC7hFY+tqy6E29WU1TF6o/Y=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFileOut
+ putStream.java
+SHA-256-Digest: uF6otf7UHhhLSpzBeG58Q30FLQHqWLkoMKwWspShy6Q=
+
+Name: org/eclipse/osgi/internal/framework/legacy/StartLevelImpl.java
+SHA-256-Digest: KD5G+h/f/G2FBytzd+2PqFEodfCE/NzYr3ToTrA+CR0=
+
+Name: org/eclipse/osgi/internal/loader/SystemBundleLoader.java
+SHA-256-Digest: 1XBcUp9K7y4HCRvnjHl8sZFGYP4Q3c6yndoZI99eZ5s=
+
+Name: org/osgi/service/log/LogReaderService.java
+SHA-256-Digest: VUfkn7G7a2W0q+xiiX8MXglvhqtSxC/xqMns2YdCPhE=
+
+Name: org/osgi/resource/dto/CapabilityDTO.java
+SHA-256-Digest: 49pE8OltooFVwP06U0CyiQGuGa7zyIp3ZDbp+am84D8=
+
+Name: org/osgi/framework/ServiceReference.java
+SHA-256-Digest: wFbSKFjYlhsZ43L9K/CnluJUKjmAJwwtlqdqhUfG6lw=
+
+Name: org/osgi/service/condpermadmin/BundleSignerCondition.java
+SHA-256-Digest: 4jl6xR6InmND0qzaJ7kJ6gL1E8sIg0wHMdyz9J30TMc=
+
+Name: org/eclipse/osgi/container/builders/OSGiManifestBuilderFactory.j
+ ava
+SHA-256-Digest: 3tEfrQRO52hWy91FT0Q+MprMV0LmZX+W1m4k20yYn48=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceUse.java
+SHA-256-Digest: B/Nhr/GhSQwKN+zgpuKs6GNVZWyJlsS1hsp+T8V6yKE=
+
+Name: org/eclipse/equinox/log/LogPermissionCollection.java
+SHA-256-Digest: rt8kORSjhM7Q0ZRzhs8tQ09T5Q3KHNZN6obrQozcFg4=
+
+Name: org/eclipse/osgi/framework/util/SecureAction.java
+SHA-256-Digest: ReL/QwTKK8sQMON/1j25YwF6yqdSpPD6tpBUaIEIao0=
+
+Name: org/eclipse/osgi/internal/debug/FrameworkDebugOptions.java
+SHA-256-Digest: J7yR+l4gubqHAXl8wNX1NnjKx8QO7q7XDmYznE3bB6k=
+
+Name: org/osgi/service/permissionadmin/PermissionInfo.java
+SHA-256-Digest: c4aTAFnzdtyd4gRH4cKfPTEUuTkrCh4KJAk6sLj2DaA=
+
+Name: org/eclipse/osgi/internal/location/Locker_JavaNio.java
+SHA-256-Digest: pKWZUHaDHLR0KgEyTkq5paV1vF1ALmWXALaxURM2uHk=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceFactoryUse.java
+SHA-256-Digest: hrLFOfSBVdtp3vY1H3HtMcpNq2fneY1RkHektJf9cKc=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceObjectsImpl.jav
+ a
+SHA-256-Digest: IA0Vpu12+Ewa7jG83nPf9Tn7gxkCR6ycev9mUS9MNKQ=
+
+Name: org/eclipse/osgi/internal/loader/classpath/ClasspathManager.java
+SHA-256-Digest: f3keR2itkljX0s3HcUBSIx+2kVJD33/OKSRUiU1IVfg=
+
+Name: org/eclipse/osgi/service/localization/BundleLocalization.java
+SHA-256-Digest: fGTiv6jeeqCn6UnjEnNCWqDNkMYnIujUmz5wBSKHH8A=
+
+Name: org/eclipse/osgi/internal/framework/EquinoxContainerAdaptor.java
+SHA-256-Digest: FZ79wKigBMTI7dxhWtBVCdlcwi7TZbOj9++rJOMAJy8=
+
+Name: org/eclipse/osgi/internal/log/FormatterLoggerImpl.java
+SHA-256-Digest: TFnTDNSoUk1GTvzeN53Oq8lCtxFUS5NUxCFPuoyoxvE=
+
+Name: org/osgi/service/startlevel/StartLevel.java
+SHA-256-Digest: KdBMCKUdyKaMGCmyQLobs6q9AmtcX2KcyUR3UynjKYo=
+
+Name: org/osgi/service/condpermadmin/Condition.java
+SHA-256-Digest: SRhAXyk/nS4dLP1dP6mxE8YwkSPFd5PE53NQlqrFTyg=
+
+Name: org/osgi/framework/BundleException.java
+SHA-256-Digest: Mdxy4wMrJPSUro9ERj4rZQzrI3Y6J8ZgnnmNsGro8Sk=
+
+Name: org/eclipse/osgi/service/resolver/GenericDescription.java
+SHA-256-Digest: lEsLc8xrk02wO7TbCeDk9uXgQ/yirX85/zU06p4JJKs=
+
+Name: org/eclipse/osgi/framework/util/ObjectPool.java
+SHA-256-Digest: Ct0SYCsl4gzSxiPskGLNQ7l4D06XywNbjteft/Y3wHU=
+
+Name: org/eclipse/osgi/internal/framework/AliasMapper.java
+SHA-256-Digest: QGNSWKgWD8oxqnEKSs8Dkk0Geb02YznwLOEJnqPt7Sw=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceProperties.java
+SHA-256-Digest: JQuWsxqbA7xkzUrex+kGcG6LN8Gfmcxs4FNezbordWo=
+
+Name: org/eclipse/osgi/service/resolver/StateWire.java
+SHA-256-Digest: X5qjvhvq91FMGErCeVtpeuaIMu6qlbiw6L7s8Ofh7Jc=
+
+Name: org/eclipse/osgi/service/environment/EnvironmentInfo.java
+SHA-256-Digest: Q5ccV3yrvdyLqoXPu/KLcniHRBQHGHgwbFsu0IZb1Y8=
+
+Name: org/apache/felix/resolver/Util.java
+SHA-256-Digest: Tuc9yBM5fcWgSkdICQp/SUz3vw/bpIrmzgjUTUdtxEI=
+
+Name: org/eclipse/osgi/internal/url/NullURLStreamHandlerService.java
+SHA-256-Digest: jgaUGGAovOPTaGZYzKbWVt4xUIyVitDV0bZ3qR6iEqU=
+
+Name: org/eclipse/osgi/internal/location/LocationHelper.java
+SHA-256-Digest: Bi0LNinG2+pzGCuGqkGdyHZMxLwPoDqO5ShP4U6n4mQ=
+
+Name: org/osgi/framework/ServiceFactory.java
+SHA-256-Digest: UeSPLBCDtmktcVlk95jEjnmt3U+fOCs00R6oD4PeGZU=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedBundleFile.java
+SHA-256-Digest: rdb7vJTf7X9ZYL0Nv8P7n9r6S7YG40w16cKK3gNqw8w=
+
+Name: org/eclipse/osgi/launch/package.html
+SHA-256-Digest: TCqyyWfOls6Jng4IXNH63a+Tw3jhg3OK9VhxjJZItT0=
+
+Name: org/osgi/service/packageadmin/ExportedPackage.java
+SHA-256-Digest: hsXL++hlkoVJLScEAydQMjkha7gM2RsGun65DJox+Y8=
+
+Name: org/eclipse/osgi/internal/util/SupplementDebug.java
+SHA-256-Digest: +/K6upUdyedxG69mXp+mXEVYi3FLNCQkwKlhxPVIIok=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentMessages.ja
+ va
+SHA-256-Digest: pKC4aDAa3dwrEyMOxmX8gV6VZ8KX+QW6ywy95vBt3Xg=
+
+Name: org/osgi/framework/wiring/BundleWire.java
+SHA-256-Digest: jN8tWh0PE5rm3T3OSSKC6jKpJWRS8herNbGtNqTeoBs=
+
+Name: org/apache/felix/resolver/util/ShadowList.java
+SHA-256-Digest: MX+uK2flmRTNwKzor9B0DFHVUSjzdNIGI+hYKzJwirI=
+
+Name: org/eclipse/osgi/internal/loader/buddy/GlobalPolicy.java
+SHA-256-Digest: BqzW8FKDXgxGHHR+nQyXHVmXSApxErV6J8OuPy08U84=
+
+Name: org/eclipse/osgi/storage/BundleLocalizationImpl.java
+SHA-256-Digest: kpc1xoL6jTBfHZAefCKrVTIbMX5LpalNKWLlBC2EOIg=
+
+Name: org/eclipse/osgi/service/localization/package.html
+SHA-256-Digest: OQLoZ40JTd1511Um4aDstVT7mHg+t3SQjS/0d5kXyts=
+
+Name: org/eclipse/osgi/service/resolver/NativeCodeDescription.java
+SHA-256-Digest: tYLKcXm+91v8blb8YY/2W6Y8fkqa6Y8dbJA8gqzcoas=
+
+Name: org/osgi/framework/namespace/IdentityNamespace.java
+SHA-256-Digest: SkBzZ9WeNABat1KyxjE6BZWg3TLXcOw39fcOoDqdUnk=
+
+Name: org/eclipse/osgi/service/debug/DebugOptions.java
+SHA-256-Digest: jCR50DSyNy+R+BJ5qqVeK7OuOmXxsG5bTNco/MR01fk=
+
+Name: org/osgi/framework/namespace/HostNamespace.java
+SHA-256-Digest: vKlKweVV9gwJr5zKiDeaZdiXnb98Ix9OT0+2uQrpooM=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceConsumer.java
+SHA-256-Digest: eELNhe/yaWoxbuS7qY7nR6S4E06JgU42kSIkPVnU75g=
+
+Name: org/eclipse/osgi/framework/log/FrameworkLog.java
+SHA-256-Digest: vSTiDa/DSDV2VmeTuF2KcDQI9I6IxKae32JvOcOjmM0=
+
+Name: org/osgi/service/url/AbstractURLStreamHandlerService.java
+SHA-256-Digest: q9msuYSKXhdGc2S+MFSqWLZUcMyyX7ZC7O25+T+kv9c=
+
+Name: org/eclipse/osgi/internal/signedcontent/TrustEngineListener.java
+SHA-256-Digest: gSq6dk2tx6hGLotK2eSbseqbbdwjdGnYtx4lvXFpw6Y=
+
+Name: org/eclipse/osgi/service/debug/DebugTrace.java
+SHA-256-Digest: QnHuzswf3Ubv4DlMSHqxCLUAEyEA5h0YR0RgyIMtbLw=
+
+Name: org/osgi/framework/Constants.java
+SHA-256-Digest: GGOtYrK71upOKUaJusbU7k92bXaZnQjWzJRKJMBzhwY=
+
+Name: org/eclipse/osgi/container/ModuleDatabase.java
+SHA-256-Digest: 6k5MqW1Oxh+3RP+OiN5TLitkbW0Zukz7teTNIgWouug=
+
+Name: org/osgi/framework/wiring/BundleRevision.java
+SHA-256-Digest: NR1PrRc8skK9N09hbyJjiPV7AHH1PHe3F4gpKCvsnmQ=
+
+Name: org/osgi/framework/AllServiceListener.java
+SHA-256-Digest: gf6ykbpgekS/RTPeWVd3Vq00X98snfWsgMPVa1jOVBo=
+
+Name: org/eclipse/osgi/service/localization/LocaleProvider.java
+SHA-256-Digest: PG+MrPM1ap0NvPufzeqxd05Br3wYfvYW/DwhAG7EYgE=
+
+Name: org/eclipse/osgi/service/resolver/PlatformAdmin.java
+SHA-256-Digest: RkpZ3YsKpLqCDA4YOi2BdFrEn/R+CyFsWtjqcxaSiRc=
+
+Name: org/eclipse/osgi/service/resolver/package.html
+SHA-256-Digest: WUvwAhexd4f8/89pqXf2AjA8vA+ShrkyQLIgceF6Dmg=
+
+Name: org/osgi/service/log/LoggerFactory.java
+SHA-256-Digest: I50vZuA4pIsmfBVNrH1DPKw+yCzCmhbJRGeP7SFifOA=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentConstants.j
+ ava
+SHA-256-Digest: r3eqTQqlhYJcJX1R+C8d5XLX+tjZSHgVHDUT997dgQo=
+
+Name: org/eclipse/osgi/service/resolver/BaseDescription.java
+SHA-256-Digest: kKH1vDy1+C0bxbclyAwrjVfrVc8G9Fnf4xgJM7Mqv0c=
+
+Name: org/eclipse/osgi/internal/messages/Msg.java
+SHA-256-Digest: woUeuSdwr9LBKyB7ax+0iQq6EPwN1JnmL7OKjcRi0f8=
+
+Name: org/eclipse/osgi/internal/log/EquinoxLogFactory.java
+SHA-256-Digest: 2w6qlx9v02ZoyoTr6Yb3aABsV1DR3t47ifUCR+8E/bM=
+
+Name: org/eclipse/osgi/storage/bundlefile/ZipBundleFile.java
+SHA-256-Digest: AesYb9CYk5nz9DrRWzpgZdVxpFGf2i/4ycPg+TvUXqc=
+
+Name: org/eclipse/equinox/log/LogFilter.java
+SHA-256-Digest: bIoh5sZSSNja9y2SKjujKumLd2E/I0PGuVTz4b+7kS0=
+
+Name: org/eclipse/osgi/service/resolver/ResolverError.java
+SHA-256-Digest: dudLVVOR1XdgkgG/FVjKCG8ufIVPfgvgUqOaLJoedSY=
+
+Name: org/eclipse/osgi/service/resolver/NativeCodeSpecification.java
+SHA-256-Digest: LfJbIB2fDKs1+PZhmYHjQOS8YyX54wMezIp3Yf6ImJg=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ModifiedServiceEvent.j
+ ava
+SHA-256-Digest: YglhZ/s9X+pnGuCDdZQJ39YuFI16PO6ANYPfk6fP9JU=
+
+Name: org/osgi/service/log/admin/LoggerContext.java
+SHA-256-Digest: 4Y+tA54tngsFyWd1xaAmt+1Xwh6jNW/Wl1eKxYYnhMA=
+
+Name: org/osgi/dto/DTO.java
+SHA-256-Digest: dAB1usxFbWSicnJYEMI6eIW1A8u1XW2dvhDo2wYvOsY=
+
+Name: org/eclipse/osgi/report/resolution/ResolutionReport.java
+SHA-256-Digest: NVEPSUgdqQX6wbSBQQ1XiOO3/Xh2p++J7lhOlWY3Fv4=
+
+Name: org/eclipse/osgi/internal/log/LoggerContextTargetMap.java
+SHA-256-Digest: AePAD9I5MDKduuwI1pEgTz8ruFTcIGB0x8V97ZIWvps=
+
+Name: org/eclipse/osgi/signedcontent/SignedContentFactory.java
+SHA-256-Digest: xnPesvJydr9BkXoxs6V5D7yfNT3H3r1/tZcTnBbqLTI=
+
+Name: org/eclipse/osgi/internal/framework/EquinoxContainer.java
+SHA-256-Digest: 0UzQBHtosVKlXXHwHRAynsygfvO2Vj65DqPPttS6ZLA=
+
+Name: org/eclipse/osgi/internal/container/InternalUtils.java
+SHA-256-Digest: udyUe2NJAErXjj6Zt52jmNx+//D9XKundxwzUV5V6Dc=
+
+Name: org/eclipse/osgi/storage/bundlefile/BundleEntry.java
+SHA-256-Digest: Mt14XNcE5jYGXenfBx8GwtA9o6ssaLaDv8/Gxni9NHQ=
+
+Name: org/apache/felix/resolver/util/OpenHashMapSet.java
+SHA-256-Digest: pr6WELMfnyD620e+or6DegwSzvVp11a0DPDFi91AQKI=
+
+Name: org/eclipse/osgi/framework/eventmgr/ListenerQueue.java
+SHA-256-Digest: TVHOCynM5dPsYVFz+HZQs7Er/jkOJ/wIYbJEv1gtZjI=
+
+Name: org/eclipse/equinox/log/LogPermission.java
+SHA-256-Digest: y8JhlHPfSp16xKe7O38swN15p3+TGN2dY619Awnntto=
+
+Name: org/osgi/service/packageadmin/RequiredBundle.java
+SHA-256-Digest: LNgFK4jWol2VFe51Erd57xMNZDnx1EVvIbkXT1D74LE=
+
+Name: org/eclipse/osgi/internal/loader/buddy/PolicyHandler.java
+SHA-256-Digest: N5eyNt8smv7pk4nGtsgeN9G5s2wdzYemTh9U00zW4qE=
+
+Name: org/eclipse/osgi/container/ModuleLoader.java
+SHA-256-Digest: 66v5YEdNlyOZb30+dEbN72GJvj9IJosPWSG0/dIwxDY=
+
+Name: org/osgi/framework/hooks/resolver/package-info.java
+SHA-256-Digest: 6BCvO3ZzTyHCsVVLlduvWven6EcARnToVOkobmpowt4=
+
+Name: org/osgi/framework/Filter.java
+SHA-256-Digest: YHduZGMb2Yscp+EYqX91rpU3fv6C2SwS/hfIMQ9IWiI=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedBundleHook.java
+SHA-256-Digest: Wup3GxQsgEkEQ1FiHnYJRRLBi19L26sP339Mdgie7I0=
+
+Name: org/eclipse/osgi/storage/url/reference/ReferenceInputStream.java
+SHA-256-Digest: 2z7B5dHjE9+46qnpo21T7lBEypqd8fMJkmaPYpyPCsQ=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionEvent.java
+SHA-256-Digest: N/FCX+qTMJIHLzdpQ2AKznxv8oaFg9B9+yurc6pi8rI=
+
+Name: org/eclipse/osgi/internal/container/LockSet.java
+SHA-256-Digest: uD2I83iXtJNdGCYuZPJflK739FWEsYKKpnd0gvv+K8U=
+
+Name: org/eclipse/osgi/service/resolver/BundleDescription.java
+SHA-256-Digest: JY2ppcRVCTMdUXNZYrGnaFEONSFNDoDmzBexhp3fydA=
+
+Name: org/osgi/framework/BundleActivator.java
+SHA-256-Digest: A+RIGnGkp8EnTqiHM6f9NyFRUdh9IxZua3knote1/Bc=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableEntrySetValu
+ eCollection.java
+SHA-256-Digest: B3lJW/3LtzC7KI1wiBOKy91tvZupATfcX1n7GttVgd0=
+
+Name: org/osgi/framework/CapabilityPermission.java
+SHA-256-Digest: euEfrATOa5rszOnhA/G300RhxGRNlGiiL9zYf3GwGAM=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionUpdate.java
+SHA-256-Digest: GUmgj5L7qQ8V1qQ1U6ccnr+IL3DyJVVkTJDNqcZCjtg=
+
+Name: org/eclipse/osgi/storage/FrameworkExtensionInstaller.java
+SHA-256-Digest: iHH3CXUwikaQtDgeOhzYw8FS6lVS5PEDbyn+mcJsjAc=
+
+Name: org/eclipse/osgi/internal/loader/classpath/TitleVersionVendor.ja
+ va
+SHA-256-Digest: UXYVjuTUm8oBZjWSpYMPgXA7mwxLpSLMCpm+KhFTgyc=
+
+Name: org/eclipse/osgi/internal/location/Locker_JavaIo.java
+SHA-256-Digest: sEtrwmQUykKWYojGG3FKQVofsnULBss9LnTHQ2XFWdw=
+
+Name: org/eclipse/osgi/storage/StorageUtil.java
+SHA-256-Digest: HG41dnTZ7l4mRchKYRrq5zam1k3NRh3lz5hiiD4VlyY=
+
+Name: org/osgi/framework/wiring/dto/BundleWireDTO.java
+SHA-256-Digest: XntKWLPZOFz5+0GPJ03C7ukE0/iSiXe7ot/PjO0lC1U=
+
+Name: org/osgi/framework/wiring/package-info.java
+SHA-256-Digest: oIQ15V8tJnISytohUMIZdDWib1YYJ/p74YhLkcGwQ88=
+
+Name: org/osgi/framework/hooks/service/FindHook.java
+SHA-256-Digest: Gs1WudE8RMha6+ubThvye14+EKlXX9+msj7kw4+EBB0=
+
+Name: org/eclipse/osgi/container/ModuleResolver.java
+SHA-256-Digest: D8Fu2gbfti95vfUXCOs8p/63Ly82nMt8AuwSr9YCCpk=
+
+Name: org/eclipse/osgi/internal/url/MultiplexingURLStreamHandler.java
+SHA-256-Digest: w09pg7hdbgsgVcuqk0g8o9QZ15S3XLircjIiI0toiqg=
+
+Name: org/eclipse/osgi/internal/hooks/DevClassLoadingHook.java
+SHA-256-Digest: gH5Wh1p+aBNUMO5NLeuHZ+kIRap23ZKavXmqz/rAAQU=
+
+Name: org/eclipse/osgi/internal/loader/ModuleClassLoader.java
+SHA-256-Digest: XV9I0dUEJJQeleqOjT5hLxYILjYixjl8ZkrFNKj3bq8=
+
+Name: org/osgi/service/resolver/ResolveContext.java
+SHA-256-Digest: 7JyuDRmj7QJVGvVCnht398dF/ifNivSYcer2TcwXwe4=
+
+Name: org/eclipse/osgi/service/resolver/BundleDelta.java
+SHA-256-Digest: 74h5IRCwufUBIe94nJGB0gKx6hflNlnGuM6lA+lVeR8=
+
+Name: org/eclipse/osgi/service/security/package.html
+SHA-256-Digest: DqVm5fEG5M6lHhKpGG9y3KZA2qEMpixGww7p5M/7o34=
+
+Name: org/osgi/service/condpermadmin/BundleLocationCondition.java
+SHA-256-Digest: RpQ2Ley4IIjnjF/0iufr576BVSPl2Lg1stDdbNptmvA=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignatureBlockProcessor.
+ java
+SHA-256-Digest: DNf+qUsBFHOpeozenSrR0A8Hfg1fD7XMtz9tGDv5sXg=
+
+Name: org/eclipse/osgi/internal/framework/EquinoxBundle.java
+SHA-256-Digest: DT0+N2OEm4H5SmKCAkCKWIZFJEJJwFmFaoQ7l+8eLbs=
+
+Name: org/eclipse/osgi/internal/url/ContentHandlerProxy.java
+SHA-256-Digest: LStHZOop/cEdy7uwAZQWlZsM/CDcAOaIco1i4l3R6ns=
+
+Name: org/eclipse/osgi/internal/container/EquinoxReentrantLock.java
+SHA-256-Digest: mHGx2xtye/up1Dg4tmefCO99gA0Mq/q635HAa3GZF/k=
+
+Name: org/osgi/service/resolver/Resolver.java
+SHA-256-Digest: RiPjw9JuatiJf7EhByWDCcAhI9Xc5IrnBzYdeN0hYmE=
+
+Name: org/eclipse/osgi/internal/loader/BundleLoaderSources.java
+SHA-256-Digest: /8jlzKxvWOCe/7zYYhcObR9lqq54puQYZUt5gxKzGig=
+
+Name: org/apache/felix/resolver/WrappedCapability.java
+SHA-256-Digest: BGH2cPSpqKKqqUvPsWY2LKr55ogX9CuREAj1vyZgkEM=
+
+Name: org/eclipse/osgi/storagemanager/package.html
+SHA-256-Digest: 9K19GX+exWxeV7HXJcdEGsF9UQb/Srs7uY1ko2J8PkE=
+
+Name: org/eclipse/osgi/internal/framework/FilterImpl.java
+SHA-256-Digest: PksHRlININddpHNXhSPo5BKpqrTuF/CR/8QJRIGUMPA=
+
+Name: org/osgi/framework/hooks/weaving/WeavingHook.java
+SHA-256-Digest: lFPcPrGTNlnA8PPoDkaGiAhQj3Vdvyw7uTkfXbfgPXM=
+
+Name: org/osgi/dto/package-info.java
+SHA-256-Digest: pOlayKH0iDTaeEME10cx3ysfyrrgKAqWiX63hYNsp6g=
+
+Name: org/osgi/framework/hooks/resolver/ResolverHook.java
+SHA-256-Digest: a4HJ5H41KPlE7IZWNYCWOGCgUSjWo+f01zliBK+v8BI=
+
+Name: org/eclipse/osgi/service/environment/package.html
+SHA-256-Digest: nDRm3D+z2PPYjbH5+GDortRouDt3F+xnxU5g/KcDI/8=
+
+Name: org/eclipse/osgi/internal/framework/processor.aliases
+SHA-256-Digest: Cm7R13BQI1t1/Y/ceiIztAhHOk79rlIOkoeAC+ZO8bg=
+
+Name: org/eclipse/osgi/internal/debug/Debug.java
+SHA-256-Digest: vUIlVNhr3xC8is66c7Un0M1aFuwSlScLxEU2JGaW6aw=
+
+Name: org/eclipse/osgi/service/runnable/StartupMonitor.java
+SHA-256-Digest: /4fYCeSXL88zdqdSgPrdOjQpUvtuDdLlT1+XfrADs4E=
+
+Name: org/eclipse/osgi/storage/NativeCodeFinder.java
+SHA-256-Digest: Cffg/l+EkOom2fmMKT4m+xgJEcfHjID75ytOtSrmH44=
+
+Name: org/osgi/service/log/package-info.java
+SHA-256-Digest: 5FRUOeUOxLsUE9M1lnpkfJOkqPfQa4JGGHLgmSXsKmI=
+
+Name: org/eclipse/osgi/internal/container/Capabilities.java
+SHA-256-Digest: QVJV0yiPDEAJLxoW02wQzlh5ZS71d/1WUzATz49l9ho=
+
+Name: org/eclipse/osgi/internal/framework/SystemBundleActivator.java
+SHA-256-Digest: agdxn9iyJW1R2QfXNd1ro92r7M7k4zAGST87h9RByP8=
+
+Name: org/eclipse/equinox/log/ExtendedLogEntry.java
+SHA-256-Digest: 8KTKD+sVQvT1bwm/4a+bIxEqGwZORvfmwFAGfVvSNBg=
+
+Name: org/eclipse/core/runtime/adaptor/package.html
+SHA-256-Digest: P+Kh+nW9IodISFp+wJ9Tjcs9a4tcHVCOKLxY5sFpSck=
+
+Name: org/osgi/framework/BundleContext.java
+SHA-256-Digest: elElsba5aQXmvx7yM19PIn60btvTeK6PsWgjq9V2HXM=
+
+Name: org/eclipse/osgi/framework/util/KeyedHashSet.java
+SHA-256-Digest: QIQpHZLB8zLucDG2ZMoPNwh/Mp/lZmRhI5siPjthUpE=
+
+Name: org/osgi/framework/startlevel/dto/FrameworkStartLevelDTO.java
+SHA-256-Digest: APvJN0g47RFvY6dfjN01wq2ZXklhHMwcTkPCPTCUYPE=
+
+Name: org/eclipse/osgi/internal/permadmin/BundlePermissions.java
+SHA-256-Digest: bWpVR2iQQdP+4oWL2KpfGHhglZMVaA7GfaFRy9jTj/0=
+
+Name: org/osgi/util/tracker/AbstractTracked.java
+SHA-256-Digest: t7w3iA/jfU2/mlOe/1WatguHijdYmhGlj6mrJ0bGF5k=
+
+Name: org/osgi/framework/Configurable.java
+SHA-256-Digest: Z9tOKn+2lt/SGrzaIbdh9HZGFX+n2tkxiz8HHbjkzjs=
+
+Name: org/eclipse/osgi/container/ModuleResolutionReport.java
+SHA-256-Digest: j5XTJWiUU4343sJOyY1mULSPlFBOXDUiaAokuelqwQk=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceReferenceImpl.j
+ ava
+SHA-256-Digest: 8D5LW/B/kA2YVKBUd6ZxdKssxIxXC+PPIEEJwb2SsAs=
+
+Name: org/eclipse/osgi/internal/signedcontent/PKCS7Processor.java
+SHA-256-Digest: wpgqrNbKg79PcpZadWHRIFXZgjipPysmffn9OpKB8N8=
+
+Name: org/eclipse/osgi/internal/url/URLStreamHandlerFactoryImpl.java
+SHA-256-Digest: TFSglpTLSChTdWFd3/SjsEjfiRPvEhyAWUzLC1ePs6U=
+
+Name: org/eclipse/osgi/internal/log/LogServiceManager.java
+SHA-256-Digest: nNXP4ma4LvNLR3jllVlseB7SHog+5AOTnu7QVsDNaNo=
+
+Name: org/osgi/framework/BundleListener.java
+SHA-256-Digest: OdlHUNKjROqMvk6sY1inCfEp1tZTCIl+7U+YrMUgVnQ=
+
+Name: org/osgi/framework/startlevel/package-info.java
+SHA-256-Digest: 3Qv+dmSRJluF0eK86EWeLxDFVVaArXdiHsd5G6373L4=
+
+Name: org/eclipse/osgi/internal/hookregistry/ActivatorHookFactory.java
+SHA-256-Digest: YG9W061b87h3Zfaj7B4YA5Zci9yLyb2urMRNM3rxauQ=
+
+Name: org/eclipse/osgi/service/urlconversion/URLConverter.java
+SHA-256-Digest: cS5fqO9GnwWDkogJGkFrmIEj1BQNk+hAAW4nZf0ML5s=
+
+Name: org/osgi/framework/FrameworkUtil.java
+SHA-256-Digest: VVwO09utz0lsy+R793ViJpWjnxwFUJ6Orj9o/YoxgEE=
+
+Name: org/osgi/framework/hooks/weaving/WeavingException.java
+SHA-256-Digest: XyvbX92spq34VmpQeoDArvr44fX5Ds0I+yYZbm04REE=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentImpl.java
+SHA-256-Digest: C60UY8kDcmtC7IVHyq2NHR3UX94RwrL8x3mYz8tBxgQ=
+
+Name: org/eclipse/osgi/internal/log/EventAdminAdapter.java
+SHA-256-Digest: tLx+kAaoUIogcu/xn0PCQvg2nsHg7SazrjycPB4Fkgc=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionStatus.java
+SHA-256-Digest: RRO0dLZIL6byQIcgzUxwVzD+ETcLd6FpBNfI59XFASI=
+
+Name: org/osgi/resource/Capability.java
+SHA-256-Digest: NUmS8XyHcbZvkjZrArte3qKd22Q8ErXiXBWY0t6mPds=
+
+Name: org/eclipse/osgi/service/resolver/VersionConstraint.java
+SHA-256-Digest: Yw79MllbmKXroVpEFN8TTXYQNCy/maBSNFACwvmSTVU=
+
+Name: org/eclipse/osgi/internal/url/SetAccessible.java.src
+SHA-256-Digest: p9GXHCA6NEMiRdda6lXRY+rE+nPuX4J6oZI7Vc+DVjs=
+
+Name: org/eclipse/osgi/internal/loader/sources/MultiSourcePackage.java
+SHA-256-Digest: xsDeU0JS7+xKg5qOs0kjt457ynxKz4iu+bsvZAQc3tU=
+
+Name: org/osgi/framework/wiring/dto/BundleRevisionDTO.java
+SHA-256-Digest: Q9+q80n+KiFmkAwrKKR2FPsIzoCgZAowiG0Q3KN9vJ8=
+
+Name: org/eclipse/osgi/internal/hookregistry/BundleFileWrapperFactoryH
+ ook.java
+SHA-256-Digest: KkmiIhJ7VwI24CqxWMChDuj/MQfTtkyl1NG0TxcTNl4=
+
+Name: org/osgi/framework/BundlePermission.java
+SHA-256-Digest: a4hqVj/cYA3mwf6kj+3XHYDrzyN99lcNtDLPWzgKiqU=
+
+Name: org/eclipse/osgi/internal/loader/buddy/DependentPolicy.java
+SHA-256-Digest: 4iVGvgTVFPPDrBVpbwyEj+Q3mS/QorSjJ0zLuD8DJvM=
+
+Name: org/eclipse/osgi/service/runnable/package.html
+SHA-256-Digest: zhwFwitRWdBM5zQ7McLRephzAmAI2NiMfj4/d+F2c7Q=
+
+Name: org/eclipse/osgi/container/ModuleWiring.java
+SHA-256-Digest: 3v30skuWQdm/HPQ4j9mc9C+Ph1xkJP4zBZ9u/grqopo=
+
+Name: org/eclipse/osgi/internal/serviceregistry/FilteredServiceListene
+ r.java
+SHA-256-Digest: zfKAcOwfN+YeCnwsLMnZ5BFVTYlsK1gS5VngCEI2p4Y=
+
+Name: org/osgi/framework/hooks/weaving/WovenClass.java
+SHA-256-Digest: Nf5vAYDCSlHqUmJNZRp4qsk762s7l8wMO04p4rmhZK4=
+
+Name: org/apache/felix/resolver/SimpleHostedCapability.java
+SHA-256-Digest: HhjcW9HW6tB+j9QbVDsZWRnMzq6xJfoZ/b+J2YwU9Zo=
+
+Name: org/osgi/framework/wiring/FrameworkWiring.java
+SHA-256-Digest: D5cT1jwsLimTxVWokx3itucTuJrwqJxd5nb/+9AD6HY=
+
+Name: org/eclipse/osgi/signedcontent/package.html
+SHA-256-Digest: xGMxJIwnQIf+0NhaHjOsA85bCrTR94neoPb2+7wjr1E=
+
+Name: org/osgi/framework/startlevel/dto/package-info.java
+SHA-256-Digest: FlpplxTomTrJ/347B+PtZY9trNSuVNh+2P6/8cnDOrc=
+
+Name: org/osgi/service/log/admin/package-info.java
+SHA-256-Digest: iruq4HJ8/AP90RT93TF/xje+14LH69Rsdv7iMAwWNlI=
+
+Name: org/osgi/service/url/URLStreamHandlerService.java
+SHA-256-Digest: GTOQTKnSr7bRJDNPLteuji4GyNkHKeOGWydXoqo2C5s=
+
+Name: org/osgi/framework/hooks/bundle/CollisionHook.java
+SHA-256-Digest: VUoLBL8e/nlTd7x4LUdbLOi3xhDu4wO7JqE0SWmnVF8=
+
+Name: org/eclipse/osgi/internal/serviceregistry/HookContext.java
+SHA-256-Digest: ++R8P1WY70NEfSoFeT5B7rsivkW/HpigfymPfEMC0YA=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityTableUpdate.java
+SHA-256-Digest: 3VUN2aQESHN4PwFfo/JPEulMN6EBF9BLiEVTmoV3qN0=
+
+Name: org/eclipse/osgi/internal/framework/BundleContextImpl.java
+SHA-256-Digest: GLHyIpqpjhV3XWRJh5GJE77gWi8GC6X9xWvuWEB6be0=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityRow.java
+SHA-256-Digest: JYAuQsPteRf9JghtqMlD7ZcHZRQwd+jUHbh4SiTLtXk=
+
+Name: org/eclipse/osgi/internal/weaving/WeavingHookConfigurator.java
+SHA-256-Digest: wM4Fyy0+Ly73jV7FX1oEUCYgfWe/0pMdBMACAltIqx8=
+
+Name: org/eclipse/osgi/internal/log/ExtendedLogReaderServiceImpl.java
+SHA-256-Digest: V8ecCj5jTx30mFsCyvCvXun0yUCGlUtNa7zAgnTccic=
+
+Name: org/apache/felix/resolver/ResolutionError.java
+SHA-256-Digest: PUo7qRiaLbPzabgl289HCkKAvtGJ1Ofhs1BuxHgL3Sw=
+
+Name: org/osgi/framework/BundleEvent.java
+SHA-256-Digest: FXrb+oi9cMunHboEPDGYxvv4HD6bFlf8fIG/OOGhmUw=
+
+Name: org/eclipse/osgi/internal/container/AtomicLazyInitializer.java
+SHA-256-Digest: dsUqLlNiuyqYU4AD4EJXKmE7w3978WJCoxQc+IYo0BE=
+
+Name: org/eclipse/osgi/container/ModuleRevision.java
+SHA-256-Digest: fygP6TLMfIdWXnbQj103pLWrDv6wYfHCI/8eA6EEJtU=
+
+Name: org/osgi/service/resolver/package-info.java
+SHA-256-Digest: tqokpEWQV0wd+AkPM441Ku0FEp+nv4JIsFyNCUZBoUE=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionAdmin.java
+SHA-256-Digest: UGYwlHRBqHHsuGpZmdkXY/jchixeUjfz+c4JLnSC4R0=
+
+Name: about.html
+SHA-256-Digest: lJ63CiwiD8LvH3FxxnYEW3FpkPwuaoPAzDxddG1cVmo=
+
+Name: org/eclipse/osgi/storage/bundlefile/BundleFileWrapperChain.java
+SHA-256-Digest: U8/jZ0IdXSwBqBDTmqEq0HjqRmXzwviNGj9OBvpH544=
+
+Name: org/eclipse/equinox/log/Logger.java
+SHA-256-Digest: 8HfXlF+gaulb3ZrE/SEhr5kLxjsjDBIiI+MsejOB9UQ=
+
+Name: org/eclipse/osgi/service/debug/package.html
+SHA-256-Digest: ozUu8BCRcGP2UR9U7ir5l7493bA9Iu5Cs+TOUqvV8nY=
+
+Name: org/eclipse/osgi/container/SystemModule.java
+SHA-256-Digest: /mc6ZXqNV6jEtDTDk6ceLsXuQQQY7r1WWX8Et9zYx34=
+
+Name: org/osgi/util/tracker/ServiceTracker.java
+SHA-256-Digest: 94IGDJj5gFD3O7lbtiQv3GqjVPqSTi+LsqUbfhFuM0s=
+
+Name: org/osgi/framework/dto/ServiceReferenceDTO.java
+SHA-256-Digest: 8SqoZSzyNwaOE2fCd6E5dH+fIewfZyD6aPc7lV83OeU=
+
+Name: org/eclipse/osgi/internal/url/SetAccessible.bytes
+SHA-256-Digest: 3akSBSl3WJ8ugxXdqW4U4cpBuAoZf+l9ZxPOt4yHAXc=
+
+Name: org/eclipse/osgi/internal/loader/sources/SingleSourcePackage.jav
+ a
+SHA-256-Digest: lv6Yjh7WoCND877jHstFKCOyJmpaZEMbq2mGWMKm5fw=
+
+Name: org/osgi/util/tracker/BundleTracker.java
+SHA-256-Digest: 4qrSCgJJi2EEdEEmafMcPT6hvDYAsHcZJruWdFOKmuU=
+
+Name: org/eclipse/osgi/internal/location/BasicLocation.java
+SHA-256-Digest: KSz3czUk2cpQzDhhG3lJ7GJBBgw7CYnMhD4Vy5jhBXM=
+
+Name: org/eclipse/osgi/service/resolver/Resolver.java
+SHA-256-Digest: x7IPjAUnqPkxGt6blFwgndY+OKKhYE3XDXWfGRdtbVY=
+
+Name: org/eclipse/osgi/framework/util/KeyedElement.java
+SHA-256-Digest: YVGcRb0NRBlmpaIHBcu+FGhkyOJIEPb3bLaHwnD9Y1Y=
+
+Name: org/eclipse/osgi/service/runnable/ParameterizedRunnable.java
+SHA-256-Digest: EwDyiCRhho65Fhvk5kROitxnTp98cLSjC+cGTIF7qxY=
+
+Name: org/eclipse/core/runtime/internal/adaptor/DefaultStartupMonitor.
+ java
+SHA-256-Digest: R1QylQQ5oVBUsrPhIJfvFtmZdSKqqzhCrbCiiRcvzfA=
+
+Name: org/eclipse/osgi/internal/framework/EquinoxEventPublisher.java
+SHA-256-Digest: ZmzEeBMOEWIVsIBDM1+W2TeU8ohxRjD8/BNxJR049Pc=
+
+Name: org/eclipse/equinox/log/ExtendedLogReaderService.java
+SHA-256-Digest: 5WT9XoW+BnG3CpyDBFNane5NZkIatPj3MA/lDjiKavs=
+
